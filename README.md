@@ -135,3 +135,27 @@ Who ever creates the repo should be the one to do the final merge. However, we w
 ### Link to the Presentation Deck
 
 [Presentation Deck](https://docs.google.com/presentation/d/1uzna8MPyl17tfVcuzZWonfskXfOUBjMjVtfCQ2yxl10/edit#slide=id.g2accd1c413_3_31)
+
+
+
+
+
+## Prep 2-
+
+Pitch 1 - Quizlet 
+What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
+-Studying can be daunting and boring. So, with our own version of quizlet, we can make it more interactive and fun. Killing two birds with one stone approach. 
+
+
+Minimum Viable Product (MVP) definition.
+What is the minimum required for you to present on your demo day?
+-The questions and answers, CSS, and minumal JS. 
+
+Pitch 2 - Workout plan
+What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
+-It can be annoying coming up with exercises everyday, so why not have a workout generator. We would have a random number of exercises that target various parts of the body and we will give the user the optio to choose which part they would like to focus on and give them a randomized workout. 
+
+
+Minimum Viable Product (MVP) definition.
+What is the minimum required for you to present on your demo day?
+-Workout plans, a webpage, and minimal CSS.
